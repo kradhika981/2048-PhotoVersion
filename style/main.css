@@ -339,7 +339,7 @@ hr {
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/presidents/5.jpg');
+    background: url('../tile-sets/presidents/8.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -362,7 +362,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/presidents/8.jpg');
+    background: url('../tile-sets/presidents/5.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
