@@ -647,7 +647,7 @@ hr {
     .grid-row:last-child {
       margin-bottom: 0; }
     .grid-row:after {
-      content: "Pooh";
+      content: " ";
       display: block;
       clear: both; }
 
